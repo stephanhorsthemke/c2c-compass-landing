@@ -1,15 +1,15 @@
 {
-  "title": "Light, Fast & Responsive",
-  "text": "This template is ready to use, so you don't need to change anything at a component level, unless you want to customize the default styling.",
+  "title": "C2C Kompass",
+  "text": "Der Kompass, der dir deinen persönlichen Weg hin zum mehr C2C expertise zeigt.",
   "section": [
     {
-      "title": "Why Antd?",
-      "content": "Ant Design is a React UI library that has a lot of easy-to-use components for building elegant UI.",
+      "title": "Was ist Cradle to Cradle?",
+      "content": "Sag uns, dass du wenig Wissen hast und der Kompass hilft dir mit den Grundlagen.",
       "icon": "notes.svg"
     },
     {
-      "title": "Why styled-components?",
-      "content": "Styled Components gives you total control over your components.",
+      "title": "Spezielle Frage?",
+      "content": "Der Kompass gibt die dich nächsten Schritte vor.",
       "icon": "notes.svg"
     }
   ]

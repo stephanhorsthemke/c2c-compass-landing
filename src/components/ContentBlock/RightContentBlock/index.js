@@ -31,7 +31,7 @@ const RightBlock = ({ title, content, button, icon, t, id }) => {
                         key={id}
                         color={item.color}
                         width="true"
-                        onClick={() => scrollTo("about")}
+                        onClick={() => window.location.href="https://c2c-backend-vupu65ymaq-ey.a.run.app"}
                       >
                         {t(item.title)}
                       </Button>

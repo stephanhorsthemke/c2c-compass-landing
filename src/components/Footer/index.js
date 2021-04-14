@@ -115,10 +115,10 @@ const Footer = ({ t }) => {
               <S.NavLink to="/">
                 <S.LogoContainer>
                   <SvgIcon
-                    src="logo.svg"
+                    src="c2c-logo.svg"
                     aria-label="homepage"
-                    width="101px"
-                    height="64px"
+                    width="80px"
+                    height="80px"
                   />
                 </S.LogoContainer>
               </S.NavLink>
