@@ -3,11 +3,13 @@
   "text": "Der Wegweiser in Richtung mehr C2C Expertise",
   "button": [
     {
-      "title": "Explore"
+      "title": "Explore",
+      "link": "https://compass-dot-c2c-compass.ey.r.appspot.com"
     },
     {
       "title": "Learn More",
-      "color": "#fff"
+      "color": "#fff",
+      "link": "https://devpost.com/software/c2c-kompass"
     }
   ]
 }

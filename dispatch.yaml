@@ -1,0 +1,3 @@
+dispatch:
+- url: "compass.c2c-compass.de/*"
+  service: compass
